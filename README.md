@@ -1,1 +1,2 @@
 # SchemaExample
+![Schema](/SchemaMy.png)
